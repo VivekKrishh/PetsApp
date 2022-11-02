@@ -1,0 +1,6 @@
+framework module Pods_PetsApp_Vivek {
+  umbrella header "Pods-PetsApp_Vivek-umbrella.h"
+
+  export *
+  module * { export * }
+}
